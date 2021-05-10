@@ -1,0 +1,7 @@
+package gameSatýþSimilasyon.LoggerPages;
+
+public interface Logger {
+	void log(Gamer gamer)
+	
+
+}
